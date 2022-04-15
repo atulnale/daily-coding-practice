@@ -1,4 +1,4 @@
-package problems;
+package graphs.disjoin_sets;
 
 import java.util.Arrays;
 import java.util.Comparator;
